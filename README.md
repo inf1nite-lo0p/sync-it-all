@@ -18,7 +18,7 @@
     You can download the script directly or use `curl`:
 
     ```bash
-    sudo curl -L -o /usr/local/bin/sync-it-all https://raw.githubusercontent.com/mohammadxali/sync-it-all/main/sync-it-all.sh
+    sudo curl -L -o /usr/local/bin/sync-it-all https://raw.githubusercontent.com/inf1nite-lo0p/sync-it-all/main/sync-it-all.sh
     sudo chmod +x /usr/local/bin/sync-it-all
     ```
 
